@@ -38,12 +38,12 @@ body {
 
 .book-info {
     margin-top: 10px;
+    background-color: #ffffff; /* Add this line to set the background color */
 }
 
-.book-info h2 {
-    margin: 0;
-    font-size: 18px;
-    color: #333333;
+.book-info {
+    margin-top: 10px;
+    background-color: #ffffff; /* Add this line to set the background color */
 }
 
 .author {
